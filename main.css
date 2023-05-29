@@ -1,0 +1,13 @@
+:root {
+  --BG-Main: #0C1117;
+  --BG-Secondary: #0F1822;
+  --Gradient-1: #2F1274;
+  --Gradient-2: #520E68;
+  --Gradient-3: #7A1064;
+  --Text-color-1: #00EAFF;
+  --Text-color-2: #666FFC;
+}
+
+body {
+  background-color: var(--BG-Main);
+}
